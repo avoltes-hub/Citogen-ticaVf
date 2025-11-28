@@ -1,0 +1,5 @@
+{
+  "name": "Cytogenetics Master",
+  "description": "A Baamboozle-style team trivia game focused on Cytogenetic Nomenclature. Features team management, score tracking, and interactive question cards.",
+  "requestFramePermissions": []
+}
